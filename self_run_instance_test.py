@@ -11,7 +11,7 @@ def create_ec2_instance():
             MinCount = 1,
             MaxCount = 1,
             InstanceType = "t2.micro",
-            KeyName = "devops101"
+            KeyName = "QiW"
 
         )
     
